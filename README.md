@@ -1,4 +1,4 @@
-<img src="http://michaeliantorno.com/wp-content/uploads/2016/04/bg6.png" alt="alt text">
+![test image size](http://michaeliantorno.com/wp-content/uploads/2016/04/bg6.png){:class="img-responsive"}
 # Michael Iantorno (LLCU-602)
 
 ## Academic/Professional Biography
