@@ -1,4 +1,4 @@
-![banner image](http://michaeliantorno.com/wp-content/uploads/2016/04/bg6.png)
+![banner image](digitalhumanities/clouds.png)
 # Michael Iantorno (LLCU-602)
 
 ## Academic/Professional Biography
