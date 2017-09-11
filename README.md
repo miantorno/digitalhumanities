@@ -1,4 +1,4 @@
-![banner image](digitalhumanities/clouds.png)
+![banner image](https://github.com/miantorno/digitalhumanities/blob/master/clouds.png)
 # Michael Iantorno (LLCU-602)
 
 ## Academic/Professional Biography
