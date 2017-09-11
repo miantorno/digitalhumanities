@@ -1,6 +1,5 @@
-# Michael Iantorno (LLCU-602)
-
 <img src="http://michaeliantorno.com/wp-content/uploads/2016/04/bg6.png" alt="alt text">
+# Michael Iantorno (LLCU-602)
 
 ## Academic/Professional Biography
 Michael Iantorno is a masters candidate in Concordia’s Media Studies program, an accomplished audio producer, and an avid game hacker.
