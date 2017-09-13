@@ -2,7 +2,7 @@
 # Michael Iantorno (LLCU-602)
 
 ## Academic/Professional Biography
-Michael Iantorno is a masters candidate in Concordia’s Media Studies program, an accomplished audio producer, and an avid game hacker.
+Michael Iantorno is a masters student in Concordia’s Media Studies program, an accomplished audio producer, and an avid game hacker.
 
 A graduate from Ryerson’s eclectic New Media program, Michael has spent the last ten years working in the Canadian media and broadcast industries. His portfolio includes live, serialized, and documentary-style programming, with a focus on social justice issues and advocacy. His audio projects have been recognized by the RTDNA, NCRA, IAAIS and New York Festivals.
 
