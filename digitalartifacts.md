@@ -1,6 +1,6 @@
 ## Trauma Representations in Videogames
 
-<img src="https://github.com/miantorno/digitalhumanities/blob/master/DA_trauma.png" align="left" height="75%" width="75%">
+<img src="https://github.com/miantorno/digitalhumanities/blob/master/DA_trauma.png" height="75%" width="75%" alt="Trauma Representations in Video Games conference logo">
 
 * **Artifact Type:** Proposal of Methodology
 * **Source URL:** [DH 2017 Abstract](https://dh2017.adho.org/abstracts/254/254.pdf) 
