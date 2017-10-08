@@ -1,6 +1,6 @@
 ## Trauma Representations in Videogames
 
-<img src="https://github.com/miantorno/digitalhumanities/blob/master/DA_trauma.png" height="75%" width="75%" alt="Trauma Representations in Video Games conference logo">
+<img src="https://github.com/miantorno/digitalhumanities/blob/master/DA_trauma.png" alt="Trauma Representations in Video Games conference logo">
 
 * **Artifact Type:** Proposal of Methodology
 * **Source URL:** [DH 2017 Abstract](https://dh2017.adho.org/abstracts/254/254.pdf) 
@@ -16,7 +16,7 @@ Olive establishes our understanding of trauma through the words of Caruth and La
 
 ## Playful Instruments: Reimagining Games as Tools for Research and Scholarly Communication 
 
-<img src="https://github.com/miantorno/digitalhumanities/blob/master/DA_playful.png" height="75%" width="75%" alt="A production screenshot from the game-making software Twine">
+<img src="https://github.com/miantorno/digitalhumanities/blob/master/DA_playful.png" alt="A production screenshot from the game-making software Twine">
 
 * **Artifact Type:** Paper
 * **Source URL:** [DH 2017 Abstract](https://dh2017.adho.org/abstracts/454/454.pdf) 
@@ -33,7 +33,7 @@ Use the Twine-based efforts of one of his graduate students as a case study, Sak
 
 ## Klynt
 
-<img src="https://github.com/miantorno/digitalhumanities/blob/master/DA_klynt.png" height="75%" width="75%" alt="The logo for Klynt, featuring red text on a charcoal gray background">
+<img src="https://github.com/miantorno/digitalhumanities/blob/master/DA_klynt.png" alt="The logo for Klynt, featuring red text on a charcoal gray background">
 
 * **Artifact Type:** Tool
 * **Source URL:** [Klynt Homepage](http://www.klynt.net) 
