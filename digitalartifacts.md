@@ -6,9 +6,9 @@
 
 * **Artifact Type:** Proposal of Methodology
 * **Source URL:** [DH 2017 Abstract](https://dh2017.adho.org/abstracts/254/254.pdf) 
-* Permissions: Unknown
-* Creator and Affiliation: Jennifer Olive, Georgia State University
-* Tags: trauma studies, videogames, empathy games, new media, witnessing
+* **Permissions:** Unknown
+* **Creator and Affiliation:** Jennifer Olive, Georgia State University
+* **Tags:** trauma studies, videogames, empathy games, new media, witnessing
 
 ## Annotation
 
