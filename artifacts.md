@@ -1,3 +1,5 @@
+# The Digital Humanities LLCU 602: Curated Artifacts
+
 ## Trauma Representations in Videogames
 
 <img src="https://github.com/miantorno/digitalhumanities/blob/master/DA_trauma.png" alt="Trauma Representations in Video Games conference logo">
