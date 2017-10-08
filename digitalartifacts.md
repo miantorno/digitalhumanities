@@ -2,7 +2,7 @@
 
 ## Trauma Representations in Videogames
 
-![screenshot](https://raw.githubusercontent.com/sgsinclair/digitalhumanities/master/Teichmann.jpg)
+![screenshot](https://github.com/miantorno/digitalhumanities/blob/master/DA_trauma.png)
 
 * **Artifact Type:** Proposal of Methodology
 * **Source URL:** [DH 2017 Abstract](https://dh2017.adho.org/abstracts/254/254.pdf) 
