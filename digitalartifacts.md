@@ -15,7 +15,6 @@ Jennifer Olive investigates the emergence of indie games that explore serious su
 
 Olive establishes our understanding of trauma through the words of Caruth and LaCapra, and then expands that understanding to digital media through ideas presented in Janet Murray’s Hamlet on the Holodeck. She then invokes Ian Bogost’s idea of procedural rhetoric and Dori Laub’s Truth as Testimony: The Process and the Struggle to create a methodology focused around a remediated experience of witnessing - highlighting both the mediation of trauma through videogames as well as the medium’s representational potential.
 
-
 ## Artifact Title 
 
 ![screenshot](images/archive-composing digital media.jpg)
